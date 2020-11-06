@@ -21,4 +21,8 @@ With respect to the component architecture, this application is represented by t
 
 ![componentTree](https://github.com/awpala/todo-list-demos/blob/main/assets/componentTree.png)
 
-![legend](https://github.com/awpala/todo-list-demos/blob/main/assets/legend.png)
+<p align="center">
+<img src="https://github.com/awpala/todo-list-demos/blob/main/assets/legend.png" alt="legend">
+</p>
+
+<!-- ![legend](https://github.com/awpala/todo-list-demos/blob/main/assets/legend.png) -->
