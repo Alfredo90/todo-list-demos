@@ -2,7 +2,7 @@
 
 ## Overview and Dependencies
 
-This repository contains a simple to-do list application to demonstrate CRUD operations in React. This project requires `React` 16+, `Node.js` v.12+, and `npm` v.6+.
+This repository contains a simple to-do list application to demonstrate CRUD operations in React. This project requires `React` v.16+, `Node.js` v.12+, and `npm` v.6+.
 
 The application is represented in the following three versions:
 * `version-single-file` - The entire React application is contained in a single file (see `/version-single-file/src/index.js`). Also contains comments/annotations. This version is intended for pedagogical purposes.
