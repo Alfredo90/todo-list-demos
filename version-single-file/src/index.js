@@ -119,6 +119,7 @@ const List = (props) => {
 */
 
 const List = ({ todoList, editListItem, removeListItem }) => { // props object destructured directly in List function parameters
+  // props object for component ListItem is { key: listItem.id, listItem: listItem, editListItem: editListItem, removeListItem: removeListItem }
   const mappedList = todoList.map(listItem => (
     <ListItem
       key={listItem.id}
@@ -139,7 +140,6 @@ const List = ({ todoList, editListItem, removeListItem }) => { // props object d
 class ListItem extends Component {
   constructor(props) {
     super(props);
-
 
      // local state of the ListItem component -- contains current text of the component and isEditing Boolean flag for conditional rendering of input field for editing
     this.state = {
