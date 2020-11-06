@@ -15,14 +15,16 @@ To deploy a given version(s) locally via Bash terminal, `git clone` this reposit
 
 The following is a wireframe of the React application, with components annotated:
 
-![wireframe](https://github.com/awpala/todo-list-demos/blob/main/assets/wireframe.png)
+<p align="center">
+<img src="https://github.com/awpala/todo-list-demos/blob/main/assets/wireframe.png" alt="wireframe">
+</p>
 
 With respect to the component architecture, this application is represented by the following **component tree** (corresponding diagram legend is shown below):
 
-![componentTree](https://github.com/awpala/todo-list-demos/blob/main/assets/componentTree.png)
+<p align="center">
+<img src="https://github.com/awpala/todo-list-demos/blob/main/assets/componentTree.png" alt="componentTree">
+</p>
 
 <p align="center">
 <img src="https://github.com/awpala/todo-list-demos/blob/main/assets/legend.png" alt="legend">
 </p>
-
-<!-- ![legend](https://github.com/awpala/todo-list-demos/blob/main/assets/legend.png) -->
