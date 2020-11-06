@@ -9,6 +9,8 @@ The application is represented in the following three versions:
 * `version-components` - The React application is split across individual components files (see `/version-components/src/components/`). Comments are omitted for brevity. This version includes stateful class components.
 * `version-hooks` - The React application is split across individual components files (see `/version-hooks/src/components/`). Comments are omitted for brevity. This version eliminates class components, instead using the more modern `useState` Hook for component state.
 
+## Local Deployment Instructions
+
 To deploy a given version(s) locally via Bash terminal, `git clone` this repository, then `cd` into the appropriate sub-directory (e.g., `cd version-single-file`). Issue terminal command `npm install` to install dependencies, and then issue terminal command `npm start` to run the React application on `localhost:3000` in the browser.
 
 ## App Design and Component Architecture
