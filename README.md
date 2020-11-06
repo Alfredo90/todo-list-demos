@@ -16,5 +16,5 @@ To deploy a given version(s) locally via Bash terminal, `git clone` this reposit
 The following is a wireframe of the React application, with components annotated:
 
 <p align="center">
-<img src="https://github.com/awpala/todo-list-demos/blob/master/assets/wireframe.bmp" alt="wireframe")
+<img src="https://github.com/awpala/todo-list-demos/blob/master/assets/wireframe.png" alt="wireframe")
  </p>
